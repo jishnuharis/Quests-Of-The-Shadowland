@@ -137,4 +137,4 @@ The encryption key lives in `cryptographer.py`. Running `cryptographer.py` direc
 
 ## License
 
-This project does not include a license file. All rights reserved by the author unless stated otherwise.
+This project does not include any assets owned by others or copyrighted. All rights reserved by the author unless stated otherwise.
